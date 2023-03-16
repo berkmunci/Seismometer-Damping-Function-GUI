@@ -7,7 +7,7 @@ Amplitude values of a seismometer.
 A gui that helps to observe rms values of optimal vs real data with changing Tn and Tao parameters
 ## Project Phases:
   ##  1) DATA COLLECTION PHASE
-  - An private dataset(.dat file) which includes amplitude values of a seismometer is used. 
+  - A private dataset(.dat file) which includes amplitude values of a seismometer is used. 
   ##  2) DATA PREPERATION PHASE
   - Dataset is imported as dataframe and data type is checked for mathematical operations.
   ##  3) DATA PROCESSING AND VISUALIZATION PHASE
